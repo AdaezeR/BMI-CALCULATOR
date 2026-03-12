@@ -34,3 +34,22 @@ elif bmi < 30:
 
 else:
     print("Category: Obese")
+
+Example Output:
+Adeola, your BMI is 26.12
+Category: Overweight
+
+Python Concepts Used:
+
+Variables
+
+Mathematical calculations
+
+Conditional statements (if / elif / else)
+
+String formatting
+
+
+Author:
+
+Adaeze Rose
